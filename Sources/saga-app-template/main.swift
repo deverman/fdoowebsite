@@ -14,7 +14,7 @@ struct ArticleMetadata: Metadata {
   var summary: String?
 }
 
-try await Saga(input: "content", output: "deploy")
+try await Saga(input: "content", output: "docs")
   .register(
     folder: "articles",
     metadata: ArticleMetadata.self,
