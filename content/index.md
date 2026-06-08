@@ -1,10 +1,9 @@
 ---
-title: The Best App to Solve Your Problem
+title: Fdoo: Eat with Confidence
 ---
-# Home Page
+# Fdoo
 
-This site is built with [Saga](https://github.com/loopwerk/Saga), a static site generator written in Swift.
-
+Travelers take a pic and translate a menu to your language, order a delicious meal.
 
 ## Features {#features}
 

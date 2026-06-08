@@ -4,8 +4,8 @@ import SagaParsleyMarkdownReader
 import SagaSwimRenderer
 
 enum SiteMetadata {
-  static let url = URL(string: "http://www.example.com")!
-  static let name = "Example App Landing Page"
+  static let url = URL(string: "https://fdoo.app")!
+  static let name = "Fdoo"
   static let author = "Brent Deverman"
 }
 
