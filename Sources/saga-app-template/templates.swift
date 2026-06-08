@@ -28,7 +28,7 @@ func baseHtml(title pageTitle: String, @NodeBuilder children: () -> NodeConverti
       footer {
         nav {
           div(class: "nav-links") {
-            a(href: "/articles/privacy-policy") { "Privacy Policy" }
+            a(href: "/privacy-policy") { "Privacy Policy" }
           }
         }
         p {
