@@ -34,7 +34,10 @@ func baseHtml(
         nav(class: "nav-inner") {
           a(class: "nav-brand", href: "/") {
             img(alt: "Fdoo icon", class: "nav-icon", src: "/static/assets/fdooicon.svg")
-            span(class: "nav-wordmark") { "fdoo" }
+            div(class: "nav-brand-text") {
+              span(class: "nav-wordmark") { "fdoo" }
+              span(class: "nav-tagline") { "Eat with confidence" }
+            }
           }
           a(class: "nav-cta", href: testFlightURL, rel: "noopener", target: "_blank") {
             "Try on TestFlight"
@@ -66,6 +69,7 @@ func renderHomePage() -> Node {
     // Hero
     section(class: "hero") {
       div(class: "hero-text") {
+        p(class: "hero-rhythm") { "SCAN · TASTE · TRUST" }
         h1(class: "hero-headline") { "The menu's in another language. Dinner isn't a mystery anymore." }
         p(class: "hero-sub") {
           "Fdoo reads menus in any language, checks every dish against your dietary needs, and tells you how to eat it before you order."
@@ -158,7 +162,7 @@ func renderHomePage() -> Node {
       div(class: "feature-grid") {
         div(class: "feature-card") {
           h3 { "Any script. Any language." }
-          p { "Japanese, Arabic, Thai, Cyrillic — if it's on the menu, Fdoo reads it." }
+          p { "Japanese, Chinese, French, Indonesian — if it's on the menu, Fdoo reads it." }
         }
         div(class: "feature-card") {
           h3 { "Your rules, applied automatically." }
@@ -175,11 +179,11 @@ func renderHomePage() -> Node {
     section(class: "section built-by") {
       h2(class: "section-headline") { "Built by people who've been that person staring at a menu" }
       div(class: "team-grid") {
-        teamMember(name: "Brent Deverman", url: "https://www.linkedin.com/in/deverman/")
-        teamMember(name: "Luisa Haning Tyas", url: "https://www.linkedin.com/in/luisa-haning-tyas/")
-        teamMember(name: "Teresa Kaena", url: "https://www.linkedin.com/in/teresakae/")
-        teamMember(name: "William Gozali", url: "https://www.linkedin.com/in/willliamgozali8/")
-        teamMember(name: "Ketut Agus Cahyadi Nanda", url: "https://www.linkedin.com/in/ketutaguscahyadinanda/")
+        teamMember(name: "Brent Deverman",           photo: "brent_deverman.jpeg",           url: "https://www.linkedin.com/in/deverman/")
+        teamMember(name: "Luisa Haning Tyas",        photo: "luisa_haning_tyas.png",         url: "https://www.linkedin.com/in/luisa-haning-tyas/")
+        teamMember(name: "Teresa Kaena",             photo: "teresa_kaena.jpeg",             url: "https://www.linkedin.com/in/teresakae/")
+        teamMember(name: "William Gozali",           photo: "william_gozali.jpeg",           url: "https://www.linkedin.com/in/willliamgozali8/")
+        teamMember(name: "Ketut Agus Cahyadi Nanda", photo: "ketut_agus_cahyadi_nanda.jpeg", url: "https://www.linkedin.com/in/ketutaguscahyadinanda/")
       }
     }
 
@@ -193,11 +197,9 @@ func renderHomePage() -> Node {
   }
 }
 
-func teamMember(name: String, url: String) -> Node {
+func teamMember(name: String, photo: String, url: String) -> Node {
   a(class: "team-member", href: url, rel: "noopener", target: "_blank") {
-    span(class: "team-avatar") {
-      Node.text(String(name.prefix(1)))
-    }
+    img(alt: name, class: "team-avatar", src: "/static/assets/profilephotos/\(photo)")
     span(class: "team-name") { name }
   }
 }

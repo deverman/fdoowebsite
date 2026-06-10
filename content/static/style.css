@@ -91,11 +91,25 @@ a:hover {
   height: 32px;
 }
 
+.nav-brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+  gap: 1px;
+}
+
 .nav-wordmark {
   font-family: 'Borel', cursive;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: var(--fdoo-secondary);
   line-height: 1;
+}
+
+.nav-tagline {
+  font-size: 0.65rem;
+  color: var(--fdoo-accent);
+  letter-spacing: 0.04em;
+  font-style: italic;
 }
 
 .nav-cta {
@@ -157,6 +171,15 @@ a:hover {
   line-height: 1.15;
   color: var(--fdoo-secondary);
   margin-bottom: 20px;
+}
+
+.hero-rhythm {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: var(--fdoo-accent);
+  text-transform: uppercase;
+  margin-bottom: 16px;
 }
 
 .hero-sub {
@@ -405,17 +428,12 @@ a:hover {
 }
 
 .team-avatar {
-  width: 36px;
-  height: 36px;
-  background: var(--fdoo-primary);
-  color: var(--fdoo-secondary);
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 700;
-  font-size: 1rem;
+  object-fit: cover;
   flex-shrink: 0;
+  border: 2px solid var(--fdoo-quartenary);
 }
 
 .team-name {
