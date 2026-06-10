@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3039px" height="1812px" viewBox="0 0 3039 1812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Colors</title>
+    <defs>
+        <path d="M0,0 L3039,0 L3039,1812 L0,1812 Z" id="path-1"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-2"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-3"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-4"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-5"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-6"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-7"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-8"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-9"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-10"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-11"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-12"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-13"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-14"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-15"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-16"></path>
+        <path d="M0,0 L463,0 L463,278 L0,278 Z" id="path-17"></path>
+    </defs>
+    <g id="Colors" stroke="none" fill="none" xlink:href="#path-1">
+        <use fill="#3A3A3A" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <g id="Frame" transform="translate(167, 769)" xlink:href="#path-2">
+            <use fill="#AEC811" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <text id="#AEC811" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="330.109375" y="238">#AEC811</tspan>
+            </text>
+            <text id="Primary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="313.811523" y="263">Primary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-2" transform="translate(630, 769)" xlink:href="#path-3">
+            <use fill="#1C2900" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <text id="#1C2900" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F7FFE5">
+                <tspan x="325.097656" y="238">#1C2900</tspan>
+            </text>
+            <text id="Secondary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#F7FFE5">
+                <tspan x="284.657227" y="263">Secondary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-3" transform="translate(1093, 769)" xlink:href="#path-4">
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <text id="#E6F58A" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="326.554688" y="238">#E6F58A</tspan>
+            </text>
+            <text id="Tertiary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="316.411133" y="263">Tertiary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-4" transform="translate(1556, 769)" xlink:href="#path-5">
+            <use fill="#EEF6C1" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <text id="#EEF6C1" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="331.607422" y="238">#EEF6C1</tspan>
+            </text>
+            <text id="Quartenary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="280.790039" y="263">Quartenary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-9" transform="translate(2019, 769)" xlink:href="#path-6">
+            <use fill="#78861E" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <text id="#78861E" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F7FFE5">
+                <tspan x="330.617188" y="238">#78861E</tspan>
+            </text>
+            <text id="Accent-Color-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#F7FFE5">
+                <tspan x="264.977539" y="263">Accent Color-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-10" transform="translate(2482, 769)" xlink:href="#path-7">
+            <use fill="#F7FFE5" fill-rule="evenodd" xlink:href="#path-7"></use>
+            <text id="#F7FFE5" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="334.59082" y="238">#F7FFE5</tspan>
+            </text>
+            <text id="Background-Color-Lig" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="219.301758" y="263">Background Color-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-5" transform="translate(167, 1477)" xlink:href="#path-8">
+            <use fill="#141400" fill-rule="evenodd" xlink:href="#path-8"></use>
+            <rect id="Rectangle" fill="#31C356" fill-rule="evenodd" x="0" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-2" fill="#32D057" fill-rule="evenodd" x="0" y="139" width="232" height="139"></rect>
+            <rect id="Rectangle-4" fill="#068833" fill-rule="evenodd" x="231" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-3" fill="#49D967" fill-rule="evenodd" x="231" y="139" width="232" height="139"></rect>
+            <text id="#49D967" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="323.228516" y="238">#49D967</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="330.162109" y="254">Increased Contrast - </tspan>
+                <tspan x="417.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+            <text id="#068833" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="322.949219" y="104">#068833</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="328.467773" y="120">Increased Contrast - </tspan>
+                <tspan x="415.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#31C356" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="100.922852" y="104">#31C356</tspan>
+            </text>
+            <text id="Default---Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="151.461914" y="120">Default - </tspan>
+                <tspan x="189.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#32D057" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="99.0947266" y="238">#32D057</tspan>
+            </text>
+            <text id="Default---Dark" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="153.15625" y="254">Default - </tspan>
+                <tspan x="191.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+        </g>
+        <g id="Frame-6" transform="translate(630, 1477)" xlink:href="#path-9">
+            <use fill="#141400" fill-rule="evenodd" xlink:href="#path-9"></use>
+            <rect id="Rectangle" fill="#FE393C" fill-rule="evenodd" x="0" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-2" fill="#FE4146" fill-rule="evenodd" x="0" y="139" width="232" height="139"></rect>
+            <rect id="Rectangle-4" fill="#E9152D" fill-rule="evenodd" x="231" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-3" fill="#FE6265" fill-rule="evenodd" x="231" y="139" width="232" height="139"></rect>
+            <text id="#FE6265" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="328.928711" y="238">#FE6265</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="330.162109" y="254">Increased Contrast - </tspan>
+                <tspan x="417.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+            <text id="#E9152D" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="329.246094" y="104">#E9152D</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="328.467773" y="120">Increased Contrast - </tspan>
+                <tspan x="415.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#FE393C" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="100.313477" y="104">#FE393C</tspan>
+            </text>
+            <text id="Default---Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="151.461914" y="120">Default - </tspan>
+                <tspan x="189.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#FE4146" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="105.556641" y="238">#FE4146</tspan>
+            </text>
+            <text id="Default---Dark" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="153.15625" y="254">Default - </tspan>
+                <tspan x="191.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+        </g>
+        <g id="Frame-7" transform="translate(1093, 1477)" xlink:href="#path-10">
+            <use fill="#141400" fill-rule="evenodd" xlink:href="#path-10"></use>
+            <rect id="Rectangle" fill="#0387FF" fill-rule="evenodd" x="0" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-2" fill="#0690FF" fill-rule="evenodd" x="0" y="139" width="232" height="139"></rect>
+            <rect id="Rectangle-4" fill="#1D6FF4" fill-rule="evenodd" x="231" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-3" fill="#5DB8FF" fill-rule="evenodd" x="231" y="139" width="232" height="139"></rect>
+            <text id="#5DB8FF" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="326.84668" y="238">#5DB8FF</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="330.162109" y="254">Increased Contrast - </tspan>
+                <tspan x="417.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+            <text id="#1D6FF4" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="330.71875" y="104">#1D6FF4</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="328.467773" y="120">Increased Contrast - </tspan>
+                <tspan x="415.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#0387FF" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="103.614258" y="104">#0387FF</tspan>
+            </text>
+            <text id="Default---Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="151.461914" y="120">Default - </tspan>
+                <tspan x="189.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#0690FF" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="101.291016" y="238">#0690FF</tspan>
+            </text>
+            <text id="Default---Dark" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="153.15625" y="254">Default - </tspan>
+                <tspan x="191.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+        </g>
+        <g id="Frame-8" transform="translate(1556, 1477)" xlink:href="#path-11">
+            <use fill="#141400" fill-rule="evenodd" xlink:href="#path-11"></use>
+            <rect id="Rectangle" fill="#FE8D29" fill-rule="evenodd" x="0" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-2" fill="#FF9330" fill-rule="evenodd" x="0" y="139" width="232" height="139"></rect>
+            <rect id="Rectangle-4" fill="#C55301" fill-rule="evenodd" x="231" y="0" width="232" height="139"></rect>
+            <rect id="Rectangle-3" fill="#FFA055" fill-rule="evenodd" x="231" y="139" width="232" height="139"></rect>
+            <text id="#FFA055" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="329.169922" y="238">#FFA055</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="330.162109" y="254">Increased Contrast - </tspan>
+                <tspan x="417.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+            <text id="#C55301" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="326.65625" y="104">#C55301</tspan>
+            </text>
+            <text id="Increased-Contrast--" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="328.467773" y="120">Increased Contrast - </tspan>
+                <tspan x="415.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#FE8D29" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="100.630859" y="104">#FE8D29</tspan>
+            </text>
+            <text id="Default---Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="151.461914" y="120">Default - </tspan>
+                <tspan x="189.84082" y="120" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Light</tspan>
+            </text>
+            <text id="#FF9330" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F2F3F7">
+                <tspan x="102.370117" y="238">#FF9330</tspan>
+            </text>
+            <text id="Default---Dark" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="10" font-weight="normal" fill="#F2F3F7">
+                <tspan x="153.15625" y="254">Default - </tspan>
+                <tspan x="191.535156" y="254" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">Dark</tspan>
+            </text>
+        </g>
+        <g id="Frame-12" transform="translate(630, 1047)" xlink:href="#path-12">
+            <use fill="#F7FFE5" fill-rule="evenodd" xlink:href="#path-12"></use>
+            <text id="#F7FFE5" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="334.59082" y="238">#F7FFE5</tspan>
+            </text>
+            <text id="Secondary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="284.657227" y="263">Secondary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-13" transform="translate(1093, 1047)" xlink:href="#path-13">
+            <use fill="#252F09" fill-rule="evenodd" xlink:href="#path-13"></use>
+            <text id="#38470E" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F7FFE5">
+                <tspan x="326.833984" y="238">#38470E</tspan>
+            </text>
+            <text id="Tertiary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#F7FFE5">
+                <tspan x="316.411133" y="263">Tertiary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-14" transform="translate(1556, 1047)" xlink:href="#path-14">
+            <use fill="#2B301D" fill-rule="evenodd" xlink:href="#path-14"></use>
+            <text id="#2B301D" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F7FFE5">
+                <tspan x="327.240234" y="238">#2B301D</tspan>
+            </text>
+            <text id="Quartenary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#F7FFE5">
+                <tspan x="280.790039" y="263">Quartenary-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-15" transform="translate(2019, 1047)" xlink:href="#path-15">
+            <use fill="#C0D440" fill-rule="evenodd" xlink:href="#path-15"></use>
+            <text id="#C0D440" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="318.912109" y="238">#C0D440</tspan>
+            </text>
+            <text id="Accent-Color-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="264.977539" y="263">Accent Color-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-16" transform="translate(2482, 1047)" xlink:href="#path-16">
+            <use fill="#111111" fill-rule="evenodd" xlink:href="#path-16"></use>
+            <text id="#111111" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#F7FFE5">
+                <tspan x="348.517578" y="238">#111111</tspan>
+            </text>
+            <text id="Background-Color-Lig" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#F7FFE5">
+                <tspan x="219.301758" y="263">Background Color-Light</tspan>
+            </text>
+        </g>
+        <g id="Frame-11" transform="translate(167, 1047)" xlink:href="#path-17">
+            <use fill="#C3DF13" fill-rule="evenodd" xlink:href="#path-17"></use>
+            <text id="#C3DF13" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="26" font-weight="bold" fill="#1C2900">
+                <tspan x="326.189453" y="238">#C3DF13</tspan>
+            </text>
+            <text id="Primary-Light" font-family="SFProRounded-Regular, SF Pro Rounded" font-size="22" font-weight="normal" fill="#1C2900">
+                <tspan x="313.811523" y="263">Primary-Light</tspan>
+            </text>
+        </g>
+        <text id="fdooPrimary" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="294" y="156">fdooPrimary</tspan>
+        </text>
+        <text id="light-mode" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="78.8027344" y="302">light mode</tspan>
+        </text>
+        <text id="dark-mode" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="78.3891602" y="523">dark mode</tspan>
+        </text>
+        <text id="fdooSecondary" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="561" y="156">fdooSecondary</tspan>
+        </text>
+        <text id="fdooTertiary" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="828" y="156">fdooTertiary</tspan>
+        </text>
+        <text id="fdooBG" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="1583" y="156">fdooBG</tspan>
+        </text>
+        <rect id="Rectangle" fill="#C3DF13" fill-rule="evenodd" x="294.5" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-2" fill="#F7FFE5" fill-rule="evenodd" x="561.238532" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-3" fill="#252F09" fill-rule="evenodd" x="827.977064" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-4" fill="#111111" fill-rule="evenodd" x="1582.7156" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-8" fill="#AEC811" fill-rule="evenodd" x="294.5" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-7" fill="#1C2900" fill-rule="evenodd" x="561.238532" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-6" fill="#FFFFFF" fill-rule="evenodd" x="827.977064" y="205" width="193.784404" height="194"></rect>
+        <text id="fdooQuartenary" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="1096" y="156">fdooQuartenary</tspan>
+        </text>
+        <rect id="Rectangle-10" fill="#2B301D" fill-rule="evenodd" x="1095.97706" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-9" fill="#EEF6C1" fill-rule="evenodd" x="1095.97706" y="205" width="193.784404" height="194"></rect>
+        <text id="accentColor" font-family="SFProRounded-Semibold, SF Pro Rounded" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="1349" y="156">accentColor</tspan>
+        </text>
+        <rect id="Rectangle-12" fill="#C0D440" fill-rule="evenodd" x="1348.97706" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-11" fill="#78861E" fill-rule="evenodd" x="1348.97706" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-5" fill="#F7FFE5" fill-rule="evenodd" x="1582.7156" y="205" width="193.784404" height="194"></rect>
+        <text id="#F7FFE5" font-family="AppleColorEmoji, Apple Color Emoji" font-size="17" font-weight="normal" line-spacing="18" fill="#F7FFE5">
+            <tspan x="1692.5" y="113">#</tspan>
+            <tspan x="1698.69713" y="114.433105" font-family="Helvetica">F</tspan>
+            <tspan x="1724.88428" y="113">7</tspan>
+            <tspan x="1731.08141" y="114.433105" font-family="Helvetica">FFE</tspan>
+            <tspan x="1778.9917" y="113">5</tspan>
+        </text>
+        <rect id="Rectangle-14" fill="#FF4245" fill-rule="evenodd" x="1910" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-13" fill="#FF383C" fill-rule="evenodd" x="1910" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-16" fill="#411B1C" fill-rule="evenodd" x="2144" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-15" fill="#FFE8CE" fill-rule="evenodd" x="2144" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-20" fill="#0091FF" fill-rule="evenodd" x="2378" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-19" fill="#0088FF" fill-rule="evenodd" x="2378" y="205" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-18" fill="#0E2B41" fill-rule="evenodd" x="2612" y="418" width="193.784404" height="194"></rect>
+        <rect id="Rectangle-17" fill="#C6E9EA" fill-rule="evenodd" x="2612" y="205" width="193.784404" height="194"></rect>
+    </g>
+</svg>
