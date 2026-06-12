@@ -25,6 +25,10 @@ func baseHtml(
         <meta property="og:image" content="\(SiteMetadata.url)/static/assets/main_screen.png">
         <meta name="twitter:card" content="summary_large_image">
         """)
+    Node.raw("""
+<script src=\"https://cdn.telemetrydeck.com/websdk/telemetrydeck.min.js\" data-app-id=\"\(SiteMetadata.telemetryAppID)\"></script>
+""")
+
       link(href: "https://fonts.googleapis.com/css2?family=Borel&display=swap", rel: "stylesheet")
       link(href: Saga.hashed("/static/style.css"), rel: "stylesheet")
       link(href: "/static/assets/fdooicon.svg", rel: "icon", type: "image/svg+xml")

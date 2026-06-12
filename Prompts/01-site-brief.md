@@ -13,7 +13,7 @@ Help me turn the information below into a clear landing page brief. If I leave r
 
 Required details:
 - App name: Fdoo
-- Target audience: 
+- Target audience: Culinary-curious travelers, expats, and adventurous diners who want to understand local menus and avoid dietary mistakes when eating abroad
 - Problem the app solves: An App that helps culinary-adventurous people navigate local restaurants by giving information* on the menu and local dining cultures.
 - Top 3 benefits:
   1. Translates local language menus to English
@@ -35,6 +35,11 @@ Strongly recommended details:
   - Answer: Blue is a recomendded dish, Grean is a dish that meets your dietary requirements, Red is a dish that doesn't meet your dietary requirements. Yellow means we are not sure if you should eat the dish proceed with caution. AI can make mistakes please think critically when using this app.
 - Desired visual direction: playful fun for foodies and travelers
 
+we had come up with some tag lines that you should consider but only if they are better than the copy you have comeup with. the poster we have "SCAN · TASTE · TRUST",    
+  "Eat with Confidence, in any language." and "Fdoo translates menus, reduces friction, and helps avoid dietary restrictions while discovering new dishes. "
+
+Our app was mainly tested with French, Spanish, Indonesian, Japanese and Chinese to English.
+
 Current 
 
 Optional details:
@@ -45,6 +50,9 @@ Luisa Haning Tyas https://www.linkedin.com/in/luisa-haning-tyas/
 Teresa Kaena https://www.linkedin.com/in/teresakae/
 William Gozali https://www.linkedin.com/in/willliamgozali8/
 Ketut Agus Cahyadi Nanda https://www.linkedin.com/in/ketutaguscahyadinanda/
+
+I have added folder of profile photos
+content/static/assets/profilephotos/
 
 
 Analyze the App XCode Project to fully understand the app capabilities unique selling proposition and colors used in the app to match the color pallet on the website:

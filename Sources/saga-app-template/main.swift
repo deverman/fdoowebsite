@@ -7,6 +7,7 @@ enum SiteMetadata {
   static let url = URL(string: "https://fdoo.app")!
   static let name = "Fdoo"
   static let author = "Brent Deverman"
+  static let telemetryAppID = "4694AAB1-C682-4B55-8CCA-E73A0CE41B48"
 }
 
 struct ArticleMetadata: Metadata {
