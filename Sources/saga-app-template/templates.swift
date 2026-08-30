@@ -4,7 +4,7 @@ import Saga
 import SagaPathKit
 import SagaSwimRenderer
 
-let testFlightURL = "https://testflight.apple.com/join/gcuFDKeB"
+let appStoreURL = "https://apps.apple.com/us/app/fdoo-menu-translator/id6776904228"
 
 func baseHtml(
   title pageTitle: String,
@@ -43,8 +43,8 @@ func baseHtml(
               span(class: "nav-tagline") { "Eat with confidence" }
             }
           }
-          a(class: "nav-cta", href: testFlightURL, rel: "noopener", target: "_blank") {
-            "Try on TestFlight"
+          a(class: "nav-cta", href: appStoreURL, rel: "noopener", target: "_blank") {
+            "Get on the App Store"
           }
         }
       }
@@ -79,8 +79,8 @@ func renderHomePage() -> Node {
           "Fdoo reads menus in any language, checks every dish against your dietary needs, and tells you how to eat it before you order."
         }
         p(class: "hero-body") { "No guessing. No awkward pointing. No accidentally ordering something you can't eat." }
-        a(class: "cta-btn", href: testFlightURL, rel: "noopener", target: "_blank") {
-          "Try Fdoo on TestFlight →"
+        a(class: "cta-btn", href: appStoreURL, rel: "noopener", target: "_blank") {
+          "Get Fdoo on the App Store →"
         }
       }
       div(class: "hero-visual") {
@@ -194,8 +194,8 @@ func renderHomePage() -> Node {
     // Footer CTA
     section(class: "footer-cta") {
       h2 { "Still reading the menu upside down?" }
-      a(class: "cta-btn", href: testFlightURL, rel: "noopener", target: "_blank") {
-        "Try Fdoo on TestFlight →"
+      a(class: "cta-btn", href: appStoreURL, rel: "noopener", target: "_blank") {
+        "Get Fdoo on the App Store →"
       }
     }
   }
