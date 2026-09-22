@@ -93,27 +93,27 @@ func renderHomePage() -> Node {
       h2(class: "section-headline") { "Three seconds from confused to confident" }
       div(class: "steps") {
         div(class: "step") {
-          img(alt: "Fdoo onboarding screen", class: "step-img", src: "/static/assets/onboarding_screen.png")
+          img(alt: "Fdoo dietary preferences setup screen", class: "step-img", src: "/static/assets/onboarding_screen.png")
           div(class: "step-body") {
             span(class: "step-num") { "1" }
-            h3 { "Scan the menu" }
-            p { "Point your camera at any menu — printed, handwritten, in any script." }
+            h3 { "Tell Fdoo your rules" }
+            p { "Pick your dietary needs and the foods you avoid. Set it once — Fdoo applies it to every menu after that." }
           }
         }
         div(class: "step") {
-          img(alt: "Fdoo translation screen", class: "step-img", src: "/static/assets/translation_screen.png")
+          img(alt: "Fdoo menu scan screen showing colour-coded dishes", class: "step-img", src: "/static/assets/main_screen.png")
           div(class: "step-body") {
             span(class: "step-num") { "2" }
-            h3 { "Fdoo reads it" }
-            p { "Every dish gets translated, analyzed for ingredients, and matched against your dietary preferences — instantly." }
+            h3 { "Scan the menu" }
+            p { "Point your camera at any menu — printed, handwritten, in any script. Every dish comes back translated and colour-coded." }
           }
         }
         div(class: "step") {
-          img(alt: "Fdoo translation screen detail", class: "step-img", src: "/static/assets/translation_screen.png")
+          img(alt: "Fdoo phrase translation screen with audio playback", class: "step-img", src: "/static/assets/translation_screen.png")
           div(class: "step-body") {
             span(class: "step-num") { "3" }
-            h3 { "Tap to go deeper" }
-            p { "Pronunciation, cultural background, how it's eaten. Everything you need to order with confidence." }
+            h3 { "Say it out loud" }
+            p { "Tell the kitchen what you can't eat in their language — and tap to hear it pronounced." }
           }
         }
       }
